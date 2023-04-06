@@ -1,0 +1,5 @@
+tomato
+onion
+potato
+carrot
+Chinese_cabbage
